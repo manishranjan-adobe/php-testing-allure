@@ -1,0 +1,1 @@
+{"version":1,"defects":[],"times":{"Dev\\PhpTesting\\UserTest::testClassConstructor":0.007,"Dev\\PhpTesting\\UserTest::testTellName":0.001,"Dev\\PhpTesting\\UserTest::testTellAge":0,"Dev\\PhpTesting\\UserTest::testAddFavoriteMovie":0.001,"Dev\\PhpTesting\\UserTest::testRemoveFavoriteMovie":0}}
